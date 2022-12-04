@@ -1,0 +1,39 @@
+/* Corpo todo */
+.corpotodo{background: rgb(33, 33, 33);}
+/* Barra de navegação */
+#navbar-clara{
+  background-color: rgb(66, 66, 66);}
+
+  /* Section 1 */
+.TituloArtWorld{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.TituloArtWorld h1{
+  color:rgb(255, 255, 255);;
+  margin: 2em; }
+
+.TituloArtWorld .card{
+  box-shadow: 0 0 20px #ccc;
+
+}
+
+.TituloArtWorld .card img{
+  width: 100%;
+  height: 12em; 
+  
+}
+
+.TituloArtWorld .card-title{
+  color:#F97300; }
+
+.TituloArtWorld .card-body{
+  padding: 1em;}
+
+.card{
+  align-items: center;
+}
+
